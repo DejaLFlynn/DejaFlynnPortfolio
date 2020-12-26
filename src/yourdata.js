@@ -17,14 +17,14 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Deja Flynn",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Full-Stack Web Developer",
     //Line 2 For Header
-    "products, brands,",
+    "Node.js, Redux/ToolKit, SQL/NoSQL",
     //Line 3 For Header
-    "and experience",
+    "Recent Grad",
   ],
   //   Header Paragraph
   headerParagraph:
