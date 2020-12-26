@@ -177,10 +177,10 @@ aboutImage:
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/DejaLFlynn/react-portfolio-template" },
     {
       img: codepenIcon,
-      url: "https://www.codepen.com/",
+      url: "https://www.linkedin.com/in/deja-flynn/",
     },
     {
       img: dribbbleIcon,
