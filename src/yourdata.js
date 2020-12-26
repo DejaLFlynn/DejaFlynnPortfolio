@@ -18,6 +18,7 @@ export default {
 
   //   Header Details ---------------------
   name: "Deja Flynn",
+
   headerTagline: [
     //Line 1 For Header
     "Full-Stack Web Developer",
@@ -147,6 +148,13 @@ aboutImage:
       para:
         "Front-end experience using Material-UI, Bootstrap, and Gatsby, creating clean and functional apps that optimizes the user's experience.",
     },
+    {
+      id: 3,
+      img: 
+      cssIcon,
+      para:
+        "Deep understanding of CSS inheritance and how to use it to your advantage; a good ideology for managing maintainable, scalable, and cross-browser code across large sites; and familiarity with source control principles",
+    },
   
     {
       id: 4,
@@ -156,6 +164,13 @@ aboutImage:
     },
     {
       id: 5,
+      img: 
+      cssIcon,
+      para:
+        "Deep understanding of CSS inheritance and how to use it to your advantage; a good ideology for managing maintainable, scalable, and cross-browser code across large sites; and familiarity with source control principles",
+    },
+    {
+      id: 6,
       img: 
       cssIcon,
       para:
@@ -180,7 +195,7 @@ aboutImage:
     { img: githubIcon, url: "https://github.com/DejaLFlynn/react-portfolio-template" },
     {
       img: codepenIcon,
-      url: "https://www.linkedin.com/in/deja-flynn/",
+      url: "https://www.codepen.com/",
     },
     {
       img: dribbbleIcon,
