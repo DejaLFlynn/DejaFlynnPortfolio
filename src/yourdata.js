@@ -121,11 +121,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I have transitioned into Computer Software as I have studied and trained at Pursuit, an exceptional Coding Program that I was offered a year of Full-Stack Web Development, nights and weekend course.  My coursework was heavy into the importance of the mastery of JavaScript, focusing callbacks, recursion and working heavily on Object Oriented Programming bringing out the most efficient. My projects developed skills in JS, front-end and back end and also mastering responsiveness UI.",
+    "Seeking an opportunity to expand her skills, Déjà joined Pursuit, an exceptional coding program, where she completed a year of Full-Stack Web Development. At Pursuit, she was able to master the following: Node.js, CSS, HTML, SQL/no-SQL, React.js JavaScript and other popular languages.",
   aboutParaTwo:
-    "In my former life I was a Computer Teacher for 9 years with the Archdiocese of NY and 13 years as the Technology Director for  Children's Aid NY. With an undergraduate from St. John’s University in Communication Arts, I’ve created my own curriculum and taught Computer Literacy, Graphic Design, and STEM.",
+    "With an undergraduate degree in Computer science from St. John’s University and a passion for teaching computer literacy to underprivileged , high risk communities in Harlem and the South Bronx, Déjà Flynn used her Communication Art skills to create a curriculum for teaching computer literacy at The Archdiocese of New York, The Children’s Aid Society of New York, Microsoft, The Boys and Girls Club and Hofstra University STEM program. This was a wonderful and gratifying work experience. Looking back, she remembers the fun and excitement she and her students shared when participating in robotics competitions or using their computer skills when working in STEM activities.",
   aboutParaThree:
-    "Utilizing my academic and professional knowledge, I was able to maximize my year at Pursuit to gain the full experience with peers, mentors, instructors and key speakers. I come to any employer with tons of ambition, grit and determination with a smile.",
+    "Using her academic and professional experience, Deja is seeking a position as Full Stack Web Developer, bringing with her tons of ambition, grit and determination with a smile.",
   aboutImage: "https://i.postimg.cc/kMVgCnwy/unnamed.png",
 
   //   End About Section ---------------------
@@ -177,7 +177,7 @@ export default {
 
   promotionHeading: "Former Work",
   promotionPara:
-    "Former computer teacher for 9 years with the Archdiocese of NY and 13 years as the Technology Director for Dunlevy Milbank Center, Children's Aid NY. Currently enrolled in Empire State, SUNY with an undergraduate from St. John’s University. I’ve created my own curriculum and taught Computer Literacy, Graphic Design, and STEM. I’ve been trained through the Boys and Girls Club & Microsoft to implement Robotics and coding. Currently, a First LEGO League Coach with an all girls team called Milbotics and I’m also a Certified Code.org teacher as well. Recently I’ve also worked with Hostra University with a STEM program called Wise Guys and Gals to facilitate a series of science activities using all general science topics. I’ve utilized Classroom Inc. for several years, and assisted classroom teachers for 2 years. Working in Harlem and the South Bronx’s my passion, where most students still don’t have access to a computer, and with my instruction students have gained intermediate to advanced skills through the the work. I continue to work in high risk neighborhoods because not having a computer as a student is very stressful, especially in 2018. The divide in the workforce is staggering for young adults and most are lost within a year or two with no computer literacy. My purpose is help put an end to that divide.",
+    "Former computer teacher for 9 years with the Archdiocese of NY and 13 years as the Technology Director for Dunlevy Milbank Center, Children's Aid NY. I’ve created my own curriculum and taught Computer Literacy, Graphic Design, and STEM. I’ve been trained through the Boys and Girls Club & Microsoft to implement Robotics and coding. Prior, a First LEGO League Coach with an all girls team called Milbotics and I’m also a Certified Code.org teacher as well. Recently I’ve also worked with Hostra University with a STEM program called Wise Guys and Gals to facilitate a series of science activities using all general science topics. I’ve utilized Classroom Inc. for several years, and assisted classroom teachers for 2 years. Working in Harlem and the South Bronx’s my passion, where most students still don’t have access to a computer, and with my instruction students have gained intermediate to advanced skills through the the work. The divide in the workforce is staggering for young adults and most are lost within a year or two with no computer literacy.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -189,21 +189,21 @@ export default {
       img: githubIcon,
       url: "https://github.com/DejaLFlynn/react-portfolio-template",
     },
-    {
-      img: codepenIcon,
-      url: "",
-    },
-    {
-      img: dribbbleIcon,
-      url: "",
-    },
-    {
-      img: instagramIcon,
-      url: "",
-    },
+    // {
+    //   img: codepenIcon,
+    //   url: "",
+    // },
+    // {
+    //   img: dribbbleIcon,
+    //   url: "",
+    // },
+    // {
+    //   img: instagramIcon,
+    //   url: "",
+    // },
   ],
 
   // End Contact Section ---------------
 }
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+
