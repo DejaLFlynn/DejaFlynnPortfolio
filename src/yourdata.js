@@ -50,7 +50,6 @@ export default {
       url: "https://werise.netlify.app/",
       
     },
-    
     {
       id: 2, 
       title: "Covid Near US", //Project Title - Add Your Project Title Here
@@ -128,7 +127,7 @@ export default {
     "With an undergraduate degree in Computer science from St. John’s University and a passion for teaching computer literacy to underprivileged , high risk communities in Harlem and the South Bronx, Déjà Flynn used her Communication Art skills to create a curriculum for teaching computer literacy at The Archdiocese of New York, The Children’s Aid Society of New York, Microsoft, The Boys and Girls Club and Hofstra University STEM program. This was a wonderful and gratifying work experience. Looking back, she remembers the fun and excitement she and her students shared when participating in robotics competitions or using their computer skills when working in STEM activities.",
   aboutParaThree:
     "Using her academic and professional experience, Deja is seeking a position as Full Stack Web Developer, bringing with her tons of ambition, grit and determination with a smile.",
-  aboutImage: "https://i.postimg.cc/kMVgCnwy/unnamed.png",
+  aboutImage: "https://i.postimg.cc/vBwrCMHT/IMG-0861.jpg",
 
   //   End About Section ---------------------
 
@@ -189,20 +188,7 @@ export default {
     // Add Or Remove The Link Accordingly
     {
       img: githubIcon,
-      para: "Portfolio Github",
       url: "https://github.com/DejaLFlynn/react-portfolio-template",
-    },
-    {
-      img: githubIcon,
-      url: "https://github.com/neuhelos/WeRise",
-    },
-    {
-      img: githubIcon,
-      url: "https://github.com/jovannil94/COVID-Hackathon",
-    },
-    {
-      img: githubIcon,
-      url: "https://github.com/DejaLFlynn/df-amazon-clone",
     },
     // {
     //   img: codepenIcon,
