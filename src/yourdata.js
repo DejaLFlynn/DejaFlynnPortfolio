@@ -39,7 +39,7 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
+      id: 1, 
       title: "We Rise", //Project Title - Add Your Project Title Here
       para:
         "WeRise is built using a tech stack composed of PostgreSQL, Firebase's Firestore NoSQL Cloud Database, Express, NodeJS and React. Redux Toolkit was leveraged for application state management. Material-UI was implemented as the base for shaping the UI/UX design framework.", // Add Your Service Type Here
@@ -48,9 +48,11 @@ export default {
         "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
       //Project URL - Add Your Project Url Here
       url: "https://werise.netlify.app/",
+      
     },
+    
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 2, 
       title: "Covid Near US", //Project Title - Add Your Project Title Here
       para:
         "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
@@ -61,7 +63,7 @@ export default {
       url: "https://covidnearus.netlify.app/",
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 3, 
       title: "Imstagram", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
@@ -72,7 +74,7 @@ export default {
       url: "https://covidnearus.netlify.app/",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 4, 
       title: "Amazon Clone", //Project Title - Add Your Project Title Here
       para:
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
@@ -83,7 +85,7 @@ export default {
       url: "https://df-amazon-clone.netlify.app/",
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 5, 
       title: "Club Tech Centers of Excellence", //Project Title - Add Your Project Title Here
       para:
         "This video celebrates the opening of the first Club Tech Center of Excellence, an expansion of the decade-long partnership of Club Tech, a program to bring technology access and skills training to children across the United States. The first Club Tech Center of Excellence opened May 12th, 2010, at the Childrens Aid Society Dunlevy Milbank Boys & Girls Club in the Harlem borough of New York, the location where the two organizations first launched Club Tech with Bill Gates and Hillary Clinton 10 years ago.", // Add Your Service Type Here
@@ -94,7 +96,7 @@ export default {
       url: "https://www.youtube.com/watch?v=k-r4q2NM0bA",
     },
     {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
+      id: 6, 
       title: "DIY STEM Success Story: Jayda | Boys & Girls Clubs of America", //Project Title - Add Your Project Title Here
       para:
         "Boys & Girls Clubs of America recently partnered with Time Warner Cable to help address America's declining proficiency in STEM by, together, launching the DIY STEM program for Clubs across the country, including The Children's Aid Society - Dunlevy Milbank Club where Jayda is a Club member. Aligned with Time Warner Cable's commitment to connect young people to the wonders of STEM, the DIY STEM program engages Club youth ages 10 to 18 in the science of every day, focusing on energy and electricity, engineering design, and food chemistry, to provide out-of-school opportunities for critical thinking and peer exchange.", // Add Your Service Type Here
@@ -187,7 +189,20 @@ export default {
     // Add Or Remove The Link Accordingly
     {
       img: githubIcon,
+      para: "Portfolio Github",
       url: "https://github.com/DejaLFlynn/react-portfolio-template",
+    },
+    {
+      img: githubIcon,
+      url: "https://github.com/neuhelos/WeRise",
+    },
+    {
+      img: githubIcon,
+      url: "https://github.com/jovannil94/COVID-Hackathon",
+    },
+    {
+      img: githubIcon,
+      url: "https://github.com/DejaLFlynn/df-amazon-clone",
     },
     // {
     //   img: codepenIcon,

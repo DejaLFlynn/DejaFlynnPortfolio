@@ -23,6 +23,7 @@ const Work = () => {
                   imgUrl={project.imageSrc}
                   projectLink={project.url}
                 ></Card>
+             
               ))}
             </Fade>
           </div>
