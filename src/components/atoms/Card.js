@@ -22,6 +22,15 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
         >
           Explore
         </a>
+       
+        <a
+          href="https://github.com/neuhelos/WeRise"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn"
+        >
+          Github
+        </a>
       </div>
     </div>
   )

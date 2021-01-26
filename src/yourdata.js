@@ -48,6 +48,9 @@ export default {
         "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
       //Project URL - Add Your Project Url Here
       url: "https://werise.netlify.app/",
+      url2: "https://github.com/neuhelos/WeRise",
+      
+      
       
     },
     {
