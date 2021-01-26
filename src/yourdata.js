@@ -63,6 +63,7 @@ export default {
         "https://i.postimg.cc/pXGCFJKv/Screen-Shot-2020-12-25-at-7-58-17-PM.png",
       //Project URL - Add Your Project Url Here
       url: "https://covidnearus.netlify.app/",
+      url2: "https://github.com/jovannil94/COVID-Hackathon",
     },
     {
       id: 3, 
@@ -74,6 +75,7 @@ export default {
         "https://i.postimg.cc/mkBJ6zq0/Screen-Shot-2021-01-06-at-10-34-21-AM.png",
       //Project URL - Add Your Project Url Here
       url: "https://covidnearus.netlify.app/",
+      url2: "https://github.com/DejaLFlynn/DejaF_CTA2020",
     },
     {
       id: 4, 
@@ -85,6 +87,7 @@ export default {
         "https://i.postimg.cc/qRxXMsp9/Screen-Shot-2020-12-25-at-8-02-45-PM.png",
       //Project URL - Add Your Project Url Here
       url: "https://df-amazon-clone.netlify.app/",
+      url2: "https://github.com/DejaLFlynn/df-amazon-clone",
     },
     {
       id: 5, 
