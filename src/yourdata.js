@@ -39,7 +39,7 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      id: 1, 
+      id: 1,
       title: "We Rise", //Project Title - Add Your Project Title Here
       para:
         "WeRise is built using a tech stack composed of PostgreSQL, Firebase's Firestore NoSQL Cloud Database, Express, NodeJS and React. Redux Toolkit was leveraged for application state management. Material-UI was implemented as the base for shaping the UI/UX design framework.", // Add Your Service Type Here
@@ -49,12 +49,9 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://werise.netlify.app/",
       url2: "https://github.com/neuhelos/WeRise",
-      
-      
-      
     },
     {
-      id: 2, 
+      id: 2,
       title: "Covid Near US", //Project Title - Add Your Project Title Here
       para:
         "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
@@ -66,7 +63,7 @@ export default {
       url2: "https://github.com/jovannil94/COVID-Hackathon",
     },
     {
-      id: 3, 
+      id: 3,
       title: "Imstagram", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
@@ -78,7 +75,7 @@ export default {
       url2: "https://github.com/DejaLFlynn/DejaF_CTA2020",
     },
     {
-      id: 4, 
+      id: 4,
       title: "Amazon Clone", //Project Title - Add Your Project Title Here
       para:
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
@@ -90,7 +87,7 @@ export default {
       url2: "https://github.com/DejaLFlynn/df-amazon-clone",
     },
     {
-      id: 5, 
+      id: 5,
       title: "Club Tech Centers of Excellence", //Project Title - Add Your Project Title Here
       para:
         "This video celebrates the opening of the first Club Tech Center of Excellence, an expansion of the decade-long partnership of Club Tech, a program to bring technology access and skills training to children across the United States. The first Club Tech Center of Excellence opened May 12th, 2010, at the Childrens Aid Society Dunlevy Milbank Boys & Girls Club in the Harlem borough of New York, the location where the two organizations first launched Club Tech with Bill Gates and Hillary Clinton 10 years ago.", // Add Your Service Type Here
@@ -101,7 +98,7 @@ export default {
       url: "https://www.youtube.com/watch?v=k-r4q2NM0bA",
     },
     {
-      id: 6, 
+      id: 6,
       title: "DIY STEM Success Story: Jayda | Boys & Girls Clubs of America", //Project Title - Add Your Project Title Here
       para:
         "Boys & Girls Clubs of America recently partnered with Time Warner Cable to help address America's declining proficiency in STEM by, together, launching the DIY STEM program for Clubs across the country, including The Children's Aid Society - Dunlevy Milbank Club where Jayda is a Club member. Aligned with Time Warner Cable's commitment to connect young people to the wonders of STEM, the DIY STEM program engages Club youth ages 10 to 18 in the science of every day, focusing on energy and electricity, engineering design, and food chemistry, to provide out-of-school opportunities for critical thinking and peer exchange.", // Add Your Service Type Here
@@ -182,7 +179,7 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Former Work",
+  promotionHeading: "Prior Work",
   promotionPara:
     "Former computer teacher for 9 years with the Archdiocese of NY and 13 years as the Technology Director for Dunlevy Milbank Center, Children's Aid NY. I’ve created my own curriculum and taught Computer Literacy, Graphic Design, and STEM. I’ve been trained through the Boys and Girls Club & Microsoft to implement Robotics and coding. Prior, a First LEGO League Coach with an all girls team called Milbotics and I’m also a Certified Code.org teacher as well. Recently I’ve also worked with Hostra University with a STEM program called Wise Guys and Gals to facilitate a series of science activities using all general science topics. I’ve utilized Classroom Inc. for several years, and assisted classroom teachers for 2 years. Working in Harlem and the South Bronx’s my passion, where most students still don’t have access to a computer, and with my instruction students have gained intermediate to advanced skills through the the work. The divide in the workforce is staggering for young adults and most are lost within a year or two with no computer literacy.",
   // End Promotion Section -----------------
@@ -212,5 +209,3 @@ export default {
 
   // End Contact Section ---------------
 }
-
-
