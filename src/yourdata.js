@@ -197,16 +197,16 @@ export default {
       url: "https://github.com/DejaLFlynn/react-portfolio-template",
     },
     // {
-    //   img: codepenIcon,
-    //   url: "",
+    //   img: githubIcon,
+    //   url: "https://github.com/jovannil94/COVID-Hackathon",
     // },
     // {
-    //   img: dribbbleIcon,
-    //   url: "",
+    //   img: githubIcon,
+    //   url: "https://github.com/DejaLFlynn/df-amazon-clone",
     // },
     // {
-    //   img: instagramIcon,
-    //   url: "",
+    //   img: githubIcon,
+    //   url: "https://github.com/DejaLFlynn/DejaF_CTA2020",
     // },
   ],
 
