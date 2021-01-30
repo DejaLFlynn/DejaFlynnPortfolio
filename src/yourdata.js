@@ -52,18 +52,6 @@ export default {
     },
     {
       id: 2,
-      title: "Covid Near US", //Project Title - Add Your Project Title Here
-      para:
-        "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.postimg.cc/pXGCFJKv/Screen-Shot-2020-12-25-at-7-58-17-PM.png",
-      //Project URL - Add Your Project Url Here
-      url: "https://covidnearus.netlify.app/",
-      url2: "https://github.com/jovannil94/COVID-Hackathon",
-    },
-    {
-      id: 3,
       title: "Imstagram", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
@@ -71,11 +59,11 @@ export default {
       imageSrc:
         "https://i.postimg.cc/mkBJ6zq0/Screen-Shot-2021-01-06-at-10-34-21-AM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://covidnearus.netlify.app/",
+      url: "https://cta-imstagram.netlify.app/",
       url2: "https://github.com/DejaLFlynn/DejaF_CTA2020",
     },
     {
-      id: 4,
+      id: 3,
       title: "Amazon Clone", //Project Title - Add Your Project Title Here
       para:
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
@@ -86,6 +74,20 @@ export default {
       url: "https://df-amazon-clone.netlify.app/",
       url2: "https://github.com/DejaLFlynn/df-amazon-clone",
     },
+    {
+      id: 4,
+      title: "Covid Near US", //Project Title - Add Your Project Title Here
+      para:
+        "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.postimg.cc/pXGCFJKv/Screen-Shot-2020-12-25-at-7-58-17-PM.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://covidnearus.netlify.app/",
+      url2: "https://github.com/jovannil94/COVID-Hackathon",
+    },
+
+
     {
       id: 5,
       title: "Club Tech Centers of Excellence", //Project Title - Add Your Project Title Here
