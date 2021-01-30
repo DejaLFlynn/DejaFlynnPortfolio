@@ -163,7 +163,7 @@ export default {
     {
       id: 1,
       img: reactIcon,
-      para: "Redux Toolkit ",
+      para: "Good Experience in React.js for creating interactive UI's. Experienced in working with Redux architecture using complex Object-Oriented concepts in improving the performance of the websites. ",
     },
     {
       id: 5,
@@ -173,7 +173,7 @@ export default {
     {
       id: 6,
       img: jsIcon,
-      para: "Express and Node.js connectivity",
+      para: "Experienced in working with Node.JS and NPM modules.",
     },
   ],
 
