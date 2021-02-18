@@ -90,14 +90,15 @@ export default {
 
     {
       id: 5,
-      title: "Club Tech Centers of Excellence", //Project Title - Add Your Project Title Here
+      title: "Pokemon Selector", //Project Title - Add Your Project Title Here
       para:
-        "This video celebrates the opening of the first Club Tech Center of Excellence, an expansion of the decade-long partnership of Club Tech, a program to bring technology access and skills training to children across the United States. The first Club Tech Center of Excellence opened May 12th, 2010, at the Childrens Aid Society Dunlevy Milbank Boys & Girls Club in the Harlem borough of New York, the location where the two organizations first launched Club Tech with Bill Gates and Hillary Clinton 10 years ago.", // Add Your Service Type Here
+      "Pokemon client application. Your app will allow users to see Pokemon by type, see an individual Pokemon and leave a comment for it.",
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.postimg.cc/GtnT0rx0/Screen-Shot-2021-01-06-at-10-41-10-AM.png",
+        "https://i.postimg.cc/3W5KfRt7/Screen-Shot-2021-02-17-at-1-23-42-PM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://www.youtube.com/watch?v=k-r4q2NM0bA",
+      url: "https://dejaflynpokemon.netlify.app/",
+      url2:"https://github.com/DejaLFlynn/Unit4AssessmentPokemon",
     },
     {
       id: 6,
