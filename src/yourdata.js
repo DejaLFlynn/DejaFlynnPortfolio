@@ -69,7 +69,7 @@ export default {
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.postimg.cc/qRxXMsp9/Screen-Shot-2020-12-25-at-8-02-45-PM.png",
+        "https://i.postimg.cc/W12zrM3F/congopic.png",
       //Project URL - Add Your Project Url Here
       url: "https://df-congo-marketplace.netlify.app/",
       url2: "https://github.com/DejaLFlynn/df-Congo-marketplace",
