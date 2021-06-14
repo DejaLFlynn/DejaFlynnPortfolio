@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Deja Flynn",
+  name: "Lauren Flynn",
 
   headerTagline: [
     //Line 1 For Header
@@ -64,15 +64,15 @@ export default {
     },
     {
       id: 3,
-      title: "Amazon Clone", //Project Title - Add Your Project Title Here
+      title: "Congo Marketplace", //Project Title - Add Your Project Title Here
       para:
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.postimg.cc/qRxXMsp9/Screen-Shot-2020-12-25-at-8-02-45-PM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://df-amazon-clone.netlify.app/",
-      url2: "https://github.com/DejaLFlynn/df-amazon-clone",
+      url: "https://df-congo-marketplace.netlify.app/",
+      url2: "https://github.com/DejaLFlynn/df-Congo-marketplace",
     },
     {
       id: 4,
@@ -128,11 +128,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Seeking an opportunity to expand her skills, Déjà joined Pursuit, an exceptional coding program, where she completed a year of Full-Stack Web Development. At Pursuit, she was able to master the following: Node.js, CSS, HTML, SQL/no-SQL, React.js JavaScript and other popular languages.",
+    "Seeking an opportunity to expand her skills, Lauren joined Pursuit, an exceptional coding program, where she completed a year of Full-Stack Web Development. At Pursuit, she was able to master the following: Node.js, CSS, HTML, SQL/no-SQL, React.js JavaScript and other popular languages.",
   aboutParaTwo:
-    "With an undergraduate degree in Computer science from St. John’s University and a passion for teaching computer literacy to underprivileged , high risk communities in Harlem and the South Bronx, Déjà Flynn used her Communication Art skills to create a curriculum for teaching computer literacy at The Archdiocese of New York, The Children’s Aid Society of New York, Microsoft, The Boys and Girls Club and Hofstra University STEM program. This was a wonderful and gratifying work experience. Looking back, she remembers the fun and excitement she and her students shared when participating in robotics competitions or using their computer skills when working in STEM activities.",
+    "With an undergraduate degree in Computer science from St. John’s University and a passion for teaching computer literacy to underprivileged , high risk communities in Harlem and the South Bronx, Lauren Flynn used her Communication Art skills to create a curriculum for teaching computer literacy at The Archdiocese of New York, The Children’s Aid Society of New York, Microsoft, The Boys and Girls Club and Hofstra University STEM program. This was a wonderful and gratifying work experience. Looking back, she remembers the fun and excitement she and her students shared when participating in robotics competitions or using their computer skills when working in STEM activities.",
   aboutParaThree:
-    "Using her academic and professional experience, Deja is seeking a position as Full Stack Web Developer, bringing with her tons of ambition, grit and determination with a smile.",
+    "Using her academic and professional experience, Lauren is seeking a position as Full Stack Web Developer, bringing with her tons of ambition, grit and determination with a smile.",
   aboutImage: "https://i.postimg.cc/vBwrCMHT/IMG-0861.jpg",
 
   //   End About Section ---------------------
@@ -196,18 +196,7 @@ export default {
       img: githubIcon,
       url: "https://github.com/DejaLFlynn/react-portfolio-template",
     },
-    // {
-    //   img: githubIcon,
-    //   url: "https://github.com/jovannil94/COVID-Hackathon",
-    // },
-    // {
-    //   img: githubIcon,
-    //   url: "https://github.com/DejaLFlynn/df-amazon-clone",
-    // },
-    // {
-    //   img: githubIcon,
-    //   url: "https://github.com/DejaLFlynn/DejaF_CTA2020",
-    // },
+
   ],
 
   // End Contact Section ---------------

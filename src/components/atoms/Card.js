@@ -24,7 +24,6 @@ const Card = ({ heading, paragraph, imgUrl, projectLink, projectLink2 }) => {
         </a>
        
         <a
-          // href="https://github.com/neuhelos/WeRise"
           href={projectLink2 ? projectLink2 : "#"}
           target="_blank"
           rel="noopener noreferrer"
