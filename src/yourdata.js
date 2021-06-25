@@ -38,23 +38,12 @@ export default {
 
   // Work Section ------------------------
   projects: [
+
     {
       id: 1,
-      title: "We Rise", //Project Title - Add Your Project Title Here
-      para:
-        "WeRise is built using a tech stack composed of PostgreSQL, Firebase's Firestore NoSQL Cloud Database, Express, NodeJS and React. Redux Toolkit was leveraged for application state management. Material-UI was implemented as the base for shaping the UI/UX design framework.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
-      //Project URL - Add Your Project Url Here
-      url: "https://werise.netlify.app/",
-      url2: "https://github.com/neuhelos/WeRise",
-    },
-    {
-      id: 2,
       title: "Imstagram", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Imstgram is an Instagram clone built using a tech stack composed of PostgreSQL, Firebase's Firestore NoSQL Cloud Database, Express, NodeJS and React. Redux Toolkit was leveraged for application state management. Material-UI was implemented as the base for shaping the UI/UX design framework.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://i.postimg.cc/mkBJ6zq0/Screen-Shot-2021-01-06-at-10-34-21-AM.png",
@@ -63,7 +52,7 @@ export default {
       url2: "https://github.com/DejaLFlynn/DejaF_CTA2020",
     },
     {
-      id: 3,
+      id: 2,
       title: "Congo Marketplace", //Project Title - Add Your Project Title Here
       para:
         "A Full-Stack, using noSQL(Firebase), to sign in and sign up on Amazon and React/Redux.js libraries.", // Add Your Service Type Here
@@ -74,22 +63,11 @@ export default {
       url: "https://df-congo-marketplace.netlify.app/",
       url2: "https://github.com/DejaLFlynn/df-Congo-marketplace",
     },
-    {
-      id: 4,
-      title: "Covid Near US", //Project Title - Add Your Project Title Here
-      para:
-        "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.postimg.cc/pXGCFJKv/Screen-Shot-2020-12-25-at-7-58-17-PM.png",
-      //Project URL - Add Your Project Url Here
-      url: "https://covidnearus.netlify.app/",
-      url2: "https://github.com/jovannil94/COVID-Hackathon",
-    },
+
 
 
     {
-      id: 5,
+      id: 3,
       title: "Pokemon Selector", //Project Title - Add Your Project Title Here
       para:
       "Pokemon client application. Your app will allow users to see Pokemon by type, see an individual Pokemon and leave a comment for it.",
@@ -101,15 +79,40 @@ export default {
       url2:"https://github.com/DejaLFlynn/Unit4AssessmentPokemon",
     },
     {
-      id: 6,
-      title: "DIY STEM Success Story: Jayda | Boys & Girls Clubs of America", //Project Title - Add Your Project Title Here
+      id: 4,
+      title: "Word Count", //Project Title - Add Your Project Title Here
       para:
-        "Boys & Girls Clubs of America recently partnered with Time Warner Cable to help address America's declining proficiency in STEM by, together, launching the DIY STEM program for Clubs across the country, including The Children's Aid Society - Dunlevy Milbank Club where Jayda is a Club member. Aligned with Time Warner Cable's commitment to connect young people to the wonders of STEM, the DIY STEM program engages Club youth ages 10 to 18 in the science of every day, focusing on energy and electricity, engineering design, and food chemistry, to provide out-of-school opportunities for critical thinking and peer exchange.", // Add Your Service Type Here
+        "A Front-End application built with React displays any text placed in input, character count, word count, sentence count, paragraph count and bigram count.  With a build in dark and light mode. ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.postimg.cc/qvqR5zHh/Screen-Shot-2021-01-06-at-10-41-55-AM.png",
+        "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://www.youtube.com/watch?v=-i7Nn177dkg",
+      url: "https://priceless-goldstine-3c591f.netlify.app/",
+      url2: "https://github.com/DejaLFlynn/WordCount",
+    },
+    {
+      id: 5,
+      title: "We Rise", //Project Title - Add Your Project Title Here
+      para:
+        "WeRise is built using a tech stack composed of PostgreSQL, Firebase's Firestore NoSQL Cloud Database, Express, NodeJS and React. Redux Toolkit was leveraged for application state management. Material-UI was implemented as the base for shaping the UI/UX design framework.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://werise.netlify.app/",
+      url2: "https://github.com/neuhelos/WeRise",
+    },
+    {
+      id: 6,
+      title: "Covid Near US", //Project Title - Add Your Project Title Here
+      para:
+        "A React app that is a Covid-19 United States statistics tracker that uses several API’s and libraries such as Bootstrap, Chart.js, Social Sharing, Simple Maps as a dashboard.  The App also gives the user local Covid-19 testing sites. ", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://i.postimg.cc/pXGCFJKv/Screen-Shot-2020-12-25-at-7-58-17-PM.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://covidnearus.netlify.app/",
+      url2: "https://github.com/jovannil94/COVID-Hackathon",
     },
 
     /*
