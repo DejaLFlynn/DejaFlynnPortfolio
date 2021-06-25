@@ -85,7 +85,7 @@ export default {
         "A Front-End application built with React displays any text placed in input, character count, word count, sentence count, paragraph count and bigram count.  With a build in dark and light mode. ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.postimg.cc/BQQNbVLN/Screen-Shot-2020-12-25-at-7-59-10-PM.png",
+        "https://i.postimg.cc/T1JDDWYF/Screen-Shot-2021-06-25-at-12-11-00-PM.png",
       //Project URL - Add Your Project Url Here
       url: "https://priceless-goldstine-3c591f.netlify.app/",
       url2: "https://github.com/DejaLFlynn/WordCount",
