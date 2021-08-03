@@ -1,4 +1,4 @@
-## A clean, beautiful, minimal and responsive portfolio template for Developers!
+
 
 ![Web 1920 – 1](https://i.postimg.cc/VLZjZsGP/Screen-Shot-2020-12-25-at-8-58-40-PM.png)
 
